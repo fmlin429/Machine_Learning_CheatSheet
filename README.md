@@ -1,8 +1,3 @@
-# Machine_Learning_CheatSheet
-My Machine Learning CheatSheet
-
-Start Jupyter: 
-
 #### Batch Epocod Concepts and Examples:
 Sample dataset size = 200
 Batch size = 5 (The model weights will be updated after each batch of five samples)
